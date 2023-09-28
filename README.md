@@ -1,6 +1,6 @@
 # SXmeisterToHspice
 
-Sxmeister　の　RunAscaC3　という　CMOS回路の設計シミュレーションツールの
+Sxmeister　の　RunAscaC3　という　CMOS回路の設計・シミュレーションツールの
 spiceネット出力を演算増幅器設計コンテストの提出フォーマットに変換する変換ツールです。
 
 RunAscaC3　にて回路を描画しspiceネット出力した後、この変換ツールを通すだけでコンテストに
